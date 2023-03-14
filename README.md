@@ -1,5 +1,5 @@
-# Responsive Plants Website 🎍 
-https://veronnah.github.io/plants-website-layout/
+# Responsive Plants Shop Website 🎍 
+https://veronnah.github.io/plants-minishop-layout/
 
 - Responsive Plants Website Using HTML, CSS and JavaScript.
 - Contains animations when scrolling.
